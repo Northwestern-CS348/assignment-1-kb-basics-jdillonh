@@ -1,3 +1,5 @@
+git is working... this is a test.
+
 # Assignment 1: Knowledge Base Basics
 
 In this lab assignment, you are going to create a basic knowledge base (KB) to store and retrieve facts. The facts will be statements that includes predicates (e.g., Color, Size, Inst) that relate objects together.  For example:
