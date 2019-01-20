@@ -80,7 +80,7 @@ class Rule(object):
         supports and is supported by.
 
     Attributes:
-        name (str): 'rule', the name of this class
+        name (str): 'rule', the name of this class  
         lhs (listof Statement): LHS statements of this rule
         rhs (Statement): RHS statment of this rule
         asserted (bool): boolean flag indicating if rule was asserted instead of
